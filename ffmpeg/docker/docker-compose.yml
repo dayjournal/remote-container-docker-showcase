@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+    node:
+        container_name: dev-ffmpeg
+        tty: true
+        build:
+            context: .
+            dockerfile: ffmpeg/Dockerfile
+        volumes:
+            - ../projects:/projects
+        working_dir: /projects
+volumes:
+    projects:

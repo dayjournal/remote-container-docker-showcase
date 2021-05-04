@@ -3,6 +3,7 @@
 Showcase of Docker to be used in Remote Containers.  
 - [dev-node v15.5.0](https://github.com/dayjournal/remote-container-docker-showcase/tree/main/node)  
 - [dev-python v3.7](https://github.com/dayjournal/remote-container-docker-showcase/tree/main/python)  
+- [dev-ffmpeg](https://github.com/dayjournal/remote-container-docker-showcase/tree/main/ffmpeg)  
 
 <br>
 
@@ -54,6 +55,7 @@ Copyright (c) 2021 Yasunori Kirimoto
 Remote Containersで利用するDockerのショーケース
 - [dev-node v15.5.0](https://github.com/dayjournal/remote-container-docker-showcase/tree/main/node)  
 - [dev-python v3.7](https://github.com/dayjournal/remote-container-docker-showcase/tree/main/python)  
+- [dev-ffmpeg](https://github.com/dayjournal/remote-container-docker-showcase/tree/main/ffmpeg)  
 
 <br>
 
