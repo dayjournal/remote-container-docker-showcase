@@ -22,9 +22,16 @@ docker-compose up --build
 
 <br>
 
-Launch Docker containers in the background
+Launch Docker container in the background
 ```bash
 docker-compose up --build -d
+```
+
+<br>
+
+Shared directory
+```bash
+cd node/projects
 ```
 
 <br>
@@ -69,6 +76,13 @@ docker-compose up --build
 Dockerをバックグラウンドで起動
 ```bash
 docker-compose up --build -d
+```
+
+<br>
+
+共有ディレクトリ
+```bash
+cd node/projects
 ```
 
 <br>
