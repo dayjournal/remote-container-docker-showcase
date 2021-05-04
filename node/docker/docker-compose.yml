@@ -1,0 +1,14 @@
+version: '3'
+
+services:
+    node:
+        container_name: dev-node
+        tty: true
+        build:
+            context: .
+            dockerfile: node/Dockerfile
+        volumes:
+            - ../projects:/projects
+        working_dir: /projects
+volumes:
+    projects:
